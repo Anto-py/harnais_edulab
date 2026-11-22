@@ -850,9 +850,10 @@ window.MONTAGE = [
    {
     "id": "13.11",
     "texte": [
-     "<strong>À vous.</strong> Téléchargez les dossiers des skills <code>journaling</code>, <code>exploration_perso</code> et <code>fiche</code>. Décompressez-les et glissez-les dans <code>1.depot/</code>, votre boîte aux lettres. Puis dites à l'agent : « intègre les skills que j'ai déposées dans 1.depot/ »."
+     "<strong>À vous.</strong> Téléchargez les dossiers des skills <code>journaling</code>, <code>exploration_perso</code> et <code>fiche</code>. Décompressez-les et glissez-les dans <code>1.depot/</code>, votre boîte aux lettres.",
+     "Une skill, quelqu'un l'a écrite. Avant de l'intégrer, demandez à l'agent de les examiner. Dites-lui : « analyse ces skills avant de les intégrer : à quoi sert chacune, sont-elles sûres (ce qu'elles lisent, écrivent, lancent, ce qu'elles envoient au dehors), et comment s'intégreraient-elles harmonieusement dans mon harnais ? » Lisez sa réponse. Si elle vous convient, dites-lui : « intègre les skills que j'ai déposées dans 1.depot/ »."
     ],
-    "ecran": "Bande « À vous » : un bouton jaune, qui livre le dossier de la skill en une archive que la page fabrique ; la phrase à dire à l'agent dans un bloc à copier ; une case à cocher. Dans le dossier, `1.depot/` porte un filet orange. Cochée, la case trace la barre de croupière sur le cheval du coin. Compteur : 5 pièces sur 6."
+    "ecran": "Bande « À vous » : trois boutons jaunes, un par skill, qui livrent les dossiers en archives fabriquées par la page ; les deux phrases à dire à l'agent dans deux blocs à copier ; une case à cocher. Dans le dossier, `1.depot/` porte un filet orange. Cochée, la case trace la barre de croupière sur le cheval du coin. Compteur : 5 pièces sur 6."
    }
   ]
  },
